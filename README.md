@@ -1,6 +1,6 @@
 ## Olá, eu sou o Fábio 👋 
 - 👀 Hoje estou aprendendo a codar.
-- 🌱 Estudando HTML e CSS (sim, sou novo na área de programação).
+- 🌱 Estudando Javascript!
 
 <div align="center">
   <a href="https://github.com/fmtgomes">
